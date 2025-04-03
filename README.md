@@ -11,6 +11,6 @@ A collection of small, focused projects built while learning HTML, CSS, JavaScri
 
 ## 🧩 Featured Projects
 
-- [Project 1]
-- [Project 2]
+- javascript/ etchaSketch
+- javascript/ rockPaperScissor
 - [Project 3]
