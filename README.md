@@ -14,10 +14,6 @@ Check out my [Web3 Portfolio](https://github.com/djsong01/web3-portfolio) for sm
 - `api-projects/` – Projects involving external APIs
 
 ## Featured Projects
-
-- javascript/ calculator
-- javascript/ etchaSketch
-- javascript/ rockPaperScissor
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [`calculator`](./javascript/04_calculator/) | A functional calculator built with JavaScript and DOM manipulation | JavaScript, HTML, CSS |
